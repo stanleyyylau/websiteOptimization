@@ -11,4 +11,7 @@ Optimize the website provided by Udacity so it achieves a target PageSpeed score
 
 ## How to run this?
 
-Simply download this repo to your local computer, and click the index.html to open this optimised website in your browser
+Simply download this repo to your local computer, and click the index.html to open in your browser or visit https://stanleyyylau.github.io/websiteOptimization/
+
+
+![95 page score](95PageScore.png)
